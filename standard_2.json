@@ -3,29 +3,35 @@
   "description": "Covers types of taxes, deductions, credits, and their impact on income, emphasizing financial management and tax compliance.",
   "chapters": [
     {
-      "chapter": "2.1 Understanding Taxes",
+      "chapter": "2.1 Understanding Federal and State Taxes",
       "status": "Not Started",
       "progress": 0,
       "mastery": "Not Attempted"
     },
     {
-      "chapter": "2.2 Income Tax Basics",
+      "chapter": "2.2 Understanding Tax Brackets and Tax Rates",
       "status": "Not Started",
       "progress": 0,
       "mastery": "Not Attempted"
     },
     {
-      "chapter": "2.3 Payroll Taxes",
+      "chapter": "2.3 Understanding Tax Filing Requirements",
       "status": "Not Started",
       "progress": 0,
       "mastery": "Not Attempted"
     },
     {
-      "chapter": "2.4 Tax Deductions & Credits",
+      "chapter": "2.4 Understanding Tax Deductions and Credits",
       "status": "Not Started",
       "progress": 0,
       "mastery": "Not Attempted"
     },
     {
-      "chapter": "2.5 Filing a Tax Return
+      "chapter": "2.5 Tax Planning and Compliance",
+      "status": "Not Started",
+      "progress": 0,
+      "mastery": "Not Attempted"
+    }
+  ]
+}
 
